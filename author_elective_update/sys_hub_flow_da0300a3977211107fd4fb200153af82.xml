@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>お試しフロー</description>
+        <internal_name>test_flow</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Test Flow</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 05:58:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>da0300a3977211107fd4fb200153af82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Flow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_da0300a3977211107fd4fb200153af82</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-02 05:58:53</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=da0300a3977211107fd4fb200153af82"/>
+    <sys_translated_text action="DELETE">
+        <documentkey>da0300a3977211107fd4fb200153af82</documentkey>
+        <fieldname>annotation</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 05:58:53</sys_created_on>
+        <sys_id>9e0300a3977211107fd4fb200153af85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-02 05:58:53</sys_updated_on>
+        <tablename>sys_hub_flow</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="DELETE">
+        <documentkey>da0300a3977211107fd4fb200153af82</documentkey>
+        <fieldname>name</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 05:58:54</sys_created_on>
+        <sys_id>d2038ce3977211107fd4fb200153af94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-02 05:58:54</sys_updated_on>
+        <tablename>sys_hub_flow</tablename>
+        <value>Test Flow</value>
+    </sys_translated_text>
+    <sys_variable_value action="DELETE" query="document_key=da0300a3977211107fd4fb200153af82"/>
+    <sys_hub_trigger_instance action="DELETE" query="flow=da0300a3977211107fd4fb200153af82"/>
+    <sys_hub_flow_stage action="DELETE" query="flow=da0300a3977211107fd4fb200153af82"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=da0300a3977211107fd4fb200153af82^sys_idNOT INda038ce3977211107fd4fb200153af99"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>da0300a3977211107fd4fb200153af82</id>
+        <name>Test Flow</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 05:58:54</sys_created_on>
+        <sys_id>da038ce3977211107fd4fb200153af99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-02 05:58:54</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="DELETE" query="flow_catalog_model=da038ce3977211107fd4fb200153af99"/>
+    <sys_hub_flow_input action="DELETE" query="model=da0300a3977211107fd4fb200153af82"/>
+    <sys_hub_flow_output action="DELETE" query="model=da0300a3977211107fd4fb200153af82"/>
+    <sys_hub_alias_mapping action="DELETE" query="source_id=da0300a3977211107fd4fb200153af82"/>
+    <sys_hub_action_instance action="DELETE" query="flow=da0300a3977211107fd4fb200153af82"/>
+    <sys_hub_sub_flow_instance action="DELETE" query="flow=da0300a3977211107fd4fb200153af82"/>
+    <sys_hub_flow_logic action="DELETE" query="flow=da0300a3977211107fd4fb200153af82"/>
+    <sys_hub_pill_compound action="DELETE" query="attached_to=da0300a3977211107fd4fb200153af82"/>
+    <sys_hub_flow_variable action="DELETE" query="model=da0300a3977211107fd4fb200153af82"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_input_da0300a3977211107fd4fb200153af82"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_input_da0300a3977211107fd4fb200153af82"/>
+    <sys_documentation action="DELETE" query="name=var__m_sys_hub_flow_output_da0300a3977211107fd4fb200153af82"/>
+    <sys_choice action="DELETE" query="name=var__m_sys_hub_flow_output_da0300a3977211107fd4fb200153af82"/>
+    <sys_flow_trigger_plan action="DELETE" query="plan_id=da0300a3977211107fd4fb200153af82"/>
+    <sys_flow_subflow_plan action="DELETE" query="plan_id=da0300a3977211107fd4fb200153af82"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b44e5fd5db5f73c89df22f17d4961921</instance_id>
+        <instance_name>dev91664</instance_name>
+        <name>sys_hub_flow_da0300a3977211107fd4fb200153af82</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description>お試しフロー</description><internal_name>test_flow</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>Test Flow</name><natlang/><outputs/><pre_compiled>false</pre_compiled><remote_trigger_id/><run_as>user</run_as><run_with_roles/><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-02 05:58:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>da0300a3977211107fd4fb200153af82</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Flow</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_hub_flow_da0300a3977211107fd4fb200153af82</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-02 05:58:53</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=da0300a3977211107fd4fb200153af82"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>da0300a3977211107fd4fb200153af82</documentkey><fieldname>annotation</fieldname><language>ja</language><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-02 05:58:53</sys_created_on><sys_id>9e0300a3977211107fd4fb200153af85</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-02 05:58:53</sys_updated_on><tablename>sys_hub_flow</tablename><value/></sys_translated_text><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>da0300a3977211107fd4fb200153af82</documentkey><fieldname>name</fieldname><language>ja</language><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-02 05:58:54</sys_created_on><sys_id>d2038ce3977211107fd4fb200153af94</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-02 05:58:54</sys_updated_on><tablename>sys_hub_flow</tablename><value>Test Flow</value></sys_translated_text><sys_variable_value action="delete_multiple" query="document_key=da0300a3977211107fd4fb200153af82"/><sys_hub_trigger_instance action="delete_multiple" query="flow=da0300a3977211107fd4fb200153af82"/><sys_hub_flow_stage action="delete_multiple" query="flow=da0300a3977211107fd4fb200153af82"/><sys_flow_cat_variable_model action="delete_multiple" query="id=da0300a3977211107fd4fb200153af82^sys_idNOT INda038ce3977211107fd4fb200153af99"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>da0300a3977211107fd4fb200153af82</id><name>Test Flow</name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-02 05:58:54</sys_created_on><sys_id>da038ce3977211107fd4fb200153af99</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-02 05:58:54</sys_updated_on></sys_flow_cat_variable_model><sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=da038ce3977211107fd4fb200153af99"/><sys_hub_flow_input action="delete_multiple" query="model=da0300a3977211107fd4fb200153af82"/><sys_hub_flow_output action="delete_multiple" query="model=da0300a3977211107fd4fb200153af82"/><sys_hub_alias_mapping action="delete_multiple" query="source_id=da0300a3977211107fd4fb200153af82"/><sys_hub_action_instance action="delete_multiple" query="flow=da0300a3977211107fd4fb200153af82"/><sys_hub_sub_flow_instance action="delete_multiple" query="flow=da0300a3977211107fd4fb200153af82"/><sys_hub_flow_logic action="delete_multiple" query="flow=da0300a3977211107fd4fb200153af82"/><sys_hub_pill_compound action="delete_multiple" query="attached_to=da0300a3977211107fd4fb200153af82"/><sys_hub_flow_variable action="delete_multiple" query="model=da0300a3977211107fd4fb200153af82"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_da0300a3977211107fd4fb200153af82"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_da0300a3977211107fd4fb200153af82"/><sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_da0300a3977211107fd4fb200153af82"/><sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_da0300a3977211107fd4fb200153af82"/><sys_flow_trigger_plan action="delete_multiple" query="plan_id=da0300a3977211107fd4fb200153af82"/><sys_flow_subflow_plan action="delete_multiple" query="plan_id=da0300a3977211107fd4fb200153af82"/></record_update>]]></payload>
+        <payload_hash>-1313398977</payload_hash>
+        <record_name>Test Flow</record_name>
+        <reverted_from/>
+        <source>34c50a0f977211107fd4fb200153afb1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 05:58:54</sys_created_on>
+        <sys_id>1a038ce3977211107fd4fb200153afab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18436ebcee90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-02 05:58:54</sys_updated_on>
+        <type>フロー</type>
+        <update_guid>12038ce3d5721110d9c21832789eeaab</update_guid>
+        <update_guid_history>12038ce3d5721110d9c21832789eeaab:-1313398977,96038ce3da7211109b84a1b2d09d9998:-370173432,da038ce3157211103c298f679ed9e392:337334323</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 06:03:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>117ddf1defcc43bf881c2ec3b6fa5109</sys_id>
+        <sys_metadata>da0300a3977211107fd4fb200153af82</sys_metadata>
+        <sys_name>Test Flow</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_da0300a3977211107fd4fb200153af82</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_da0300a3977211107fd4fb200153af82">1a038ce3977211107fd4fb200153afab</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
